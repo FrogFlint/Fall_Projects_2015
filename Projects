@@ -1,5 +1,10 @@
 Projects:
 
 -Pong
+  > Double platforms
 -Stick Ninja
+  > Open window
+  > Draw ninja
+  > Move ninja around
 -Block Mover
+  > Pick up and move arround blocks
