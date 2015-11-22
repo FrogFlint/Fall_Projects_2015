@@ -1,4 +1,3 @@
-//import java.rmi.server.Operation;
 import java.util.Scanner;
 public class Tic-Tac-Toe {
 	public static String a = "-";
@@ -20,15 +19,7 @@ public class Tic-Tac-Toe {
 		@SuppressWarnings("resource")
 		Scanner look = new Scanner(System.in);
 		for(;;){
-			/*newGame = look.next();
-			if (newGame == "go"){
-				keepGoing = true;
-				System.out.println("X goes first");
-				turn = "X";
-			}
-			else{
-				System.out.println("Sorry, command not recognized");
-			}*/
+			
 			System.out.println();
 			keepGoing = true;
 			for(;keepGoing == true;){
